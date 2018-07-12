@@ -97,8 +97,8 @@ Bellow is presented the pipeline in order to have the lanes correctly identified
 ## Results
 The task of adjusting the parameters, in order to get a satisfactory result is really difficult. However a good result was obtained using this pipeline and parameters.
 
-Bellow is presented a video containing the output result for the given video.
-<p align="center">[![Behavioral Cloning](https://i.ytimg.com/vi/jzn0a5WvEDE/hqdefault.jpg)](https://youtu.be/jzn0a5WvEDE)
+Checkout the project_video_output.mp4.
+
 
 ## Discussion
 This algorithm was tested in two more videos, however the result is not as robust as the one presented above, and it fail in some frames.
